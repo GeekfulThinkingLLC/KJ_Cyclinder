@@ -59,25 +59,23 @@ body {
 }
 
 .carousel-text-styles {
-	margin-bottom: 305px;
+	margin-bottom: 245px;
 }
 
 .carousel-text-styles1 {
-	margin-bottom: 277px;
+	margin-bottom: 197px;
 }
 
 .carousel-text-styles1 h2 {
-	font-size: 3.8em;
 	color: white;
-	background-color: rgba(0,0,0,0.7);
+	/*background-color: rgba(0,0,0,0.7);*/
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 .carousel-text-styles h2 {
-	font-size: 3.8em;
 	color: white;
-	background-color: rgba(0,0,0,0.5);
+	/*background-color: rgba(0,0,0,0.7);*/
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
@@ -90,7 +88,8 @@ body {
 
 .business-styles {
 	height: 725px;
-	margin-top: 75px;
+	margin-top: 150px;
+	margin-bottom: 75px;
 	padding: 75px;
 	background-color: #d9d9d9;
 	text-align: center;
@@ -99,6 +98,7 @@ body {
 .business-styles1 {
 	height: 675px;
 	margin-top: 75px;
+	margin-bottom: 75px;
 	padding: 75px;
 	background-color: #d9d9d9;
 	text-align: center;
@@ -110,6 +110,7 @@ body {
 
 .business-text1 {
 	margin-top: 34px;
+	margin-bottom: 100px;
 }
 
 .business-text h2 {
@@ -145,7 +146,7 @@ body {
 .business-services-style {
 	background-color: #d9d9d9;
 	padding: 75px;
-	margin-top: 75px;
+	margin-top: 150px;
 	margin-bottom: 75px;
 }
 
@@ -157,6 +158,7 @@ body {
 
 .photo-margin {
 	margin-top: 35px;
+	margin-left: 10px;
 }
 
 .middle-text-style {
@@ -170,6 +172,7 @@ body {
 .service-list {
 	text-align: left;
 	padding-top: 25px;
+	padding-left: 25px;
 }
 
 .service-list li {
