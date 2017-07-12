@@ -68,16 +68,18 @@ body {
 
 .carousel-text-styles1 h2 {
 	color: white;
-	/*background-color: rgba(0,0,0,0.7);*/
+	background-color: rgba(0,0,0,0.7);
 	padding-top: 10px;
 	padding-bottom: 10px;
+	border-radius: 25px;
 }
 
 .carousel-text-styles h2 {
 	color: white;
-	/*background-color: rgba(0,0,0,0.7);*/
+	background-color: rgba(0,0,0,0.7);
 	padding-top: 10px;
 	padding-bottom: 10px;
+	border-radius: 25px;
 }
 
 @media (min-width: 768px) {
